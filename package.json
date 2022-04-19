@@ -13,7 +13,7 @@
     "@openzeppelin/contracts": "^4.5.0",
     "axios": "^0.26.1",
     "framer-motion": "^6",
-    "ipfs-http-client": "^56.0.2",
+    "ipfs-http-client": "50.1.2",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
